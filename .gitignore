@@ -7,3 +7,4 @@ run/
 .idea/
 *.log
 .DS_Store
+.playwright-mcp/
